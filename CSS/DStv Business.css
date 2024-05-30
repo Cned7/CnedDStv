@@ -235,7 +235,7 @@ body {
     }
 
     .open-menu {
-        height: 26vh;
+        height: 40vh;
         width: 100%;
         display: flex;
         flex-direction: column;
